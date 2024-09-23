@@ -44,7 +44,6 @@ export default function App() {
         <section className="main-content">
           <div className="experience">
             <h1>Experience</h1>
-            {/* First Year */}
             <div className="yr">
               <h3>1st Year (2022-2023)</h3>
               <h4>Python and Figma</h4>
@@ -54,7 +53,6 @@ export default function App() {
               </ul>
             </div>
 
-            {/* Second Year */}
             <div className="yr">
               <h3>2nd Year (2023-2024)</h3>
               <h4>Javascript, MySQL, HTML and CSS</h4>
@@ -64,7 +62,6 @@ export default function App() {
               </ul>
             </div>
 
-            {/* Third Year */}
             <div className="yr">
               <h3>3rd Year (2024-Present)</h3>
               <h4>ReactJS, Bootstrap, HTML, and CSS</h4>
