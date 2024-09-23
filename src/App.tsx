@@ -40,7 +40,7 @@ export default function App() {
             </ul>
           </div>
         </section>
-
+        
         <section className="main-content">
           <div className="experience">
             <h1>Experience</h1>
@@ -52,7 +52,8 @@ export default function App() {
                 <li>Project 1</li>
               </ul>
             </div>
-
+            <hr></hr>
+            <hr></hr>
             <div className="yr">
               <h3>2nd Year (2023-2024)</h3>
               <h4>Javascript, MySQL, HTML and CSS</h4>
@@ -61,7 +62,8 @@ export default function App() {
                 <li>Project 2</li>
               </ul>
             </div>
-
+            <hr></hr>
+            <hr></hr>  
             <div className="yr">
               <h3>3rd Year (2024-Present)</h3>
               <h4>ReactJS, Bootstrap, HTML, and CSS</h4>
