@@ -43,32 +43,34 @@ export default function App() {
 
         <section className="main-content">
           <div className="experience">
-            <h1>Experience Section</h1>
-            <h2>1st Year 2022-2023</h2>
+            <h1>Experience</h1>
+            {/* First Year */}
             <div className="yr">
+              <h3>1st Year (2022-2023)</h3>
               <h4>Python and Figma</h4>
-              <h3>Projects</h3>
+              <h5>Projects</h5>
               <ul>
-                <li>.</li>
+                <li>Project 1</li>
               </ul>
             </div>
 
+            {/* Second Year */}
             <div className="yr">
-              <h2>2nd Year 2023-2024</h2>
+              <h3>2nd Year (2023-2024)</h3>
               <h4>Javascript, MySQL, HTML and CSS</h4>
-              <h3>Projects</h3>
+              <h5>Projects</h5>
               <ul>
-                <li>.</li>
+                <li>Project 2</li>
               </ul>
             </div>
 
+            {/* Third Year */}
             <div className="yr">
-              <h1>3rd Year 2024 (Present) </h1>
-              <h4>HTML, CSS, REACTJS, and Bootstrap</h4>
-              <p>Answer here</p>
-              <h3>Projects</h3>
+              <h3>3rd Year (2024-Present)</h3>
+              <h4>ReactJS, Bootstrap, HTML, and CSS</h4>
+              <h5>Projects</h5>
               <ul>
-                <li>.</li>
+                <li>Project 3</li>
               </ul>
             </div>
           </div>
