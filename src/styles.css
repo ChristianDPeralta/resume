@@ -1,0 +1,98 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.resume {
+  max-width: 900px;
+  margin: 20px auto;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  text-align: center;
+  background-color: #7d7d7d;
+  color: white;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+header h2 {
+  margin: 5px 0 0;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.content {
+  display: flex;
+  margin-top: 20px;
+}
+
+.sidebar {
+  width: 30%;
+  padding-right: 40px;
+}
+
+.main-content {
+  width: 70%;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.contact,
+.education,
+.skills {
+  margin-bottom: 20px;
+}
+
+.skills ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.skills ul li {
+  background-color: #dcdcdc;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+
+.experience {
+  margin-bottom: 20px;
+}
+
+.yr {
+  margin-bottom: 20px;
+}
+
+.yr h4 {
+  margin: 0 0 5px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.yr p {
+  margin: 5px 0;
+  color: #666;
+}
+
+.yr ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.yr ul li {
+  margin-bottom: 5px;
+}
